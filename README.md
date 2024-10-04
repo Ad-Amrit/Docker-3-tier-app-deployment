@@ -2,6 +2,8 @@
 3-tier App Deployment With Docker
 First, clone the project 
 git clone https://github.com/MonkeyDmagnas/Demo-wanderlust.git
+OR
+git clone https://github.com/Ad-Amrit/Docker-3-tier-app-deployment.git
 
 Now, We need to build our image with the docker 
 
