@@ -119,7 +119,8 @@ exit
 ```
 
 - After following each steps your project should display like this:
-![Screenshot (200)](https://github.com/user-attachments/assets/fc2e5d16-c6a6-4bb9-82ba-75a48668df65)
-![Screenshot (202)](https://github.com/user-attachments/assets/ceb32b3d-77cc-4b79-8f5a-d0f23670dc99)
-![Screenshot (203)](https://github.com/user-attachments/assets/e11cf192-c09a-4e93-980d-5cff51b7a227)
+![Screenshot (200)](https://github.com/user-attachments/assets/e48bc798-f87c-4560-9fbd-b8a1ac6ee797)
+![Screenshot (202)](https://github.com/user-attachments/assets/4948ee80-4127-45e0-9da2-09783655c024)
+![Screenshot (203)](https://github.com/user-attachments/assets/14986cd6-a0ca-4371-86fe-7ef325ba3240)
+
 
